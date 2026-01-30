@@ -1,0 +1,5 @@
+# 텔레그램 일일 경제 뉴스 봇 - GitHub Actions 버전
+python-telegram-bot>=20.0
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
